@@ -1,13 +1,28 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# ⚒️ Souls and Dragons
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+![Preview do Projeto Souls and Dragons](./project-preview.png)
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## 📡 Desenvolvimento
+
+Projeto desenvolvido na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Back-End!
+
+Nesse projeto criamos e praticamos classes, interfaces e tipos utilizando os princípios de SOLID e Programação Orientada a Objetos em TypeScript.
+
+<br />
+
+## 📜 Habilidades
+
+- Aplicar os princípios da arquitetura SOLID
+- Aplicar os princípios de POO (Programação Orientada a Objetos)
+
+## ⚙️ Tecnologias
+
+- TypeScript
+- SOLID
+- POO (Programação Orientada a Objetos)
+
+#
+
+<div>
+  <p align="center">🍐</p>
+</div>

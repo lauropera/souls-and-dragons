@@ -17,11 +17,17 @@ class PVE extends Battle {
     return this.opponents.every((opponent) => opponent.lifePoints === -1);
   }
 
+  private opponentsTurn() {
+    this.opponents.forEach((opponent) => {
+      opponent.attack(this.player);
+    });
+  }
+
   fight(): number {
     while (this.player.lifePoints !== -1) {
       this.opponents.forEach((opponent) => {
         this.player.attack(opponent);
-        opponent.attack(this.player);
+        this.opponentsTurn();
       });
       if (this.allOponentsDefeated()) break;
     }
