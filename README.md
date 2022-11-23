@@ -15,6 +15,8 @@ Nesse projeto criamos e praticamos classes, interfaces e tipos utilizando os pri
 - Aplicar os princípios da arquitetura SOLID
 - Aplicar os princípios de POO (Programação Orientada a Objetos)
 
+<br />
+
 ## ⚙️ Tecnologias
 
 - TypeScript
