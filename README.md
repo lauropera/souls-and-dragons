@@ -1,4 +1,4 @@
-# ⚒️ Souls and Dragons
+# 🎲 Souls and Dragons
 
 ![Preview do Projeto Souls and Dragons](./project-preview.png)
 
